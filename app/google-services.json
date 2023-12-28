@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042549472968",
+    "project_id": "my-shop-6a181",
+    "storage_bucket": "my-shop-6a181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042549472968:android:b58ca26cae827231132ffd",
+        "android_client_info": {
+          "package_name": "com.khadar3344.myshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVshD1aI84YRawseU5rxEJomFRiwMuLjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
