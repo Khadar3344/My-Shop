@@ -33,6 +33,7 @@ import androidx.navigation.compose.rememberNavController
 import com.khadar3344.myshop.navigation.AppNavHost
 import com.khadar3344.myshop.navigation.BottomNavigationBar
 import com.khadar3344.myshop.navigation.ForgotPass
+import com.khadar3344.myshop.navigation.Payment
 import com.khadar3344.myshop.navigation.ProductDetail
 import com.khadar3344.myshop.navigation.SignIn
 import com.khadar3344.myshop.navigation.SignUp
@@ -77,7 +78,7 @@ private fun ShowScreen(
             val bottomBarState = rememberSaveable { mutableStateOf(false) }
             val navBackStackEntry by navHostController.currentBackStackEntryAsState()
             when (navBackStackEntry?.destination?.route) {
-                SignIn.route, SignUp.route, ForgotPass.route, ProductDetail.routeWithArgs -> bottomBarState.value =
+                SignIn.route, SignUp.route, ForgotPass.route, ProductDetail.routeWithArgs, Payment.route -> bottomBarState.value =
                     false
 
                 else -> bottomBarState.value = true
