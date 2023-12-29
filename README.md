@@ -18,6 +18,22 @@ My Shop App is a sample e-commerce app built with [Jetpack Compose](https://deve
 -  [SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences) :  Store private primitive data in key-value pairs.
 -  Accompanist [Pager layout](https://google.github.io/accompanist/pager/)
 
+
 ## API
 E-commerce App uses the [DummyJson](https://dummyjson.com/) for constructing RESTful API.
 And also uses [Firebase](https://firebase.google.com/) for authentication and firestore.
+
+## App Preview
+<div>
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/08b3028e-4b12-44d5-b225-500ed2f28414" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/e3a56436-377d-4f47-ab55-f7646b92a294" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/78d35e63-9078-4902-97a2-e679b967eafd" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/d9eb8bba-7f2f-4235-8b1e-1989f6e7d068" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/699c4550-a0fb-4295-81cd-7bc16774c2fe" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/0b77f1f0-119b-4d97-89d1-0c81d1321e04" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/f8842b6c-683d-47a9-92e5-a02f603fbd49)" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/bbe9518a-e309-475f-822c-e7356a17addf" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/aeeb8a41-a194-49b0-99ba-9e9520eac3f8" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/f21469c1-89e6-477b-af38-7c8a0c201ec2" widht="300" height="600">
+  
+</div>
