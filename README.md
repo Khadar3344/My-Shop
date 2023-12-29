@@ -34,6 +34,6 @@ And also uses [Firebase](https://firebase.google.com/) for authentication and fi
   <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/f8842b6c-683d-47a9-92e5-a02f603fbd49)" widht="300" height="600">
   <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/bbe9518a-e309-475f-822c-e7356a17addf" widht="300" height="600">
   <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/aeeb8a41-a194-49b0-99ba-9e9520eac3f8" widht="300" height="600">
-  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/f21469c1-89e6-477b-af38-7c8a0c201ec2" widht="300" height="600">
+  <img src="https://github.com/Khadar3344/My-Shop/assets/79355446/e5f34630-5d73-4d2c-8b6b-93428fb92b37" widht="300" height="600">
   
 </div>
